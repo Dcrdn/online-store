@@ -1,0 +1,7 @@
+.contenedor-productos{ 
+    width: 85%;
+    height: 600px;;
+    box-shadow:0px 0px 29px 5px rgba(0,0,0,0.62);;
+    padding: 1em;
+    background-color: whitesmoke;
+  }

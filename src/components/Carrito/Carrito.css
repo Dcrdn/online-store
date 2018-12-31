@@ -1,0 +1,53 @@
+.contenedor-carrito{ 
+    width: 90%;
+    height: 500px;;
+    box-shadow: 0px 0px 29px 5px rgba(0,0,0,0.62);
+    padding: 1em;
+    background-color: whitesmoke;
+  }
+
+  .summary{
+    height: 10%;
+    font-family: Calibri;
+    font-size: 25px;
+    text-align: left;
+    color: royalblue;
+  }
+
+  .items{
+    height: 12%;
+    font-family: Calibri;
+    font-size: 19px;
+  }  
+  
+  .left-item{
+    width: 70%;
+    height: 100%;
+    float: left;
+    padding-left: 15px;
+  }
+  .right-item{
+    width: 20%;
+    height: 100%;
+    float: left;
+  }
+  
+  .num-items{
+    width: 10%;
+    height: 100%;
+    float:left;
+    vertical-align: center;
+  }
+
+  hr{
+    padding: 0px;
+    margin: 5px;   
+  }
+
+  .free{
+    color: red;
+  }
+
+  .total{
+    font-weight: bold;
+  }
